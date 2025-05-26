@@ -66,11 +66,12 @@ If you’re looking for someone who can **handle both frontend & backend**, you�
 |----------|------|
 | 🌐 Portfolio | [My Portfolio](https://gemechuhunduma.vercel.app) |
 | 📧 Email | gemechuhunduma100@gmail.com |
-| 💼 LinkedIn | [linkedin.com/in/yourname](https://linkedin.com) |
-| 🧳 Upwork | [Upwork Profile](https://upwork.com) |
-| 💸 Fiverr | [Fiverr Profile](https://fiverr.com) |
-| 💬 Telegram | [@yourusername](https://t.me/yourusername) |
-| 🐦 X (Twitter) | [@yourhandle](https://x.com) |
+| 💼 LinkedIn | [linkedin.com/in/gemechuhunduma](https://www.linkedin.com/in/gemechu-hunduma-958415367?utm_source=share&utm_campaign=share_via&utm_co
+) |
+| 🧳 Upwork | [Upwork profile](https://upwork.com) |
+| 💸 Fiverr | [FIvver Profile](https://fiverr.com) |
+| 💬 Telegram | [@game4300](https://t.me/game4300) |
+| 🐦 X (Twitter) | [@Twitter](https://x.com/Upwork430) |
 
 ---
 
