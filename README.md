@@ -22,8 +22,8 @@ I design and develop full-stack web apps that are:
 I’m passionate about turning ideas into **real products** and working with clients who value clean, functional design.  
 If you’re looking for someone who can **handle both frontend & backend**, you’re in the right place.
 
-> 👉 **Check my portfolio here:** [My Portfolio](https://your-portfolio-link.com)  
-> 📧 **Email me:** your.email@example.com
+> 👉 **Check my portfolio here:** [[My Portfolio](https://gemechuhunduma.vercel.ap)) ]
+> 📧 **Email me:** gemechuhunduma100@gmail.com
 
 ---
 
@@ -64,8 +64,8 @@ If you’re looking for someone who can **handle both frontend & backend**, you�
 
 | Platform | Link |
 |----------|------|
-| 🌐 Portfolio | [My Portfolio](https://your-portfolio-link.com) |
-| 📧 Email | your.email@example.com |
+| 🌐 Portfolio | [My Portfolio](https://gemechuhunduma.vercel.app) |
+| 📧 Email | gemechuhunduma100@gmail.com |
 | 💼 LinkedIn | [linkedin.com/in/yourname](https://linkedin.com) |
 | 🧳 Upwork | [Upwork Profile](https://upwork.com) |
 | 💸 Fiverr | [Fiverr Profile](https://fiverr.com) |
