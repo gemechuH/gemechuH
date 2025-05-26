@@ -1,49 +1,87 @@
-  # 👋 Hello, I'm Gemechu Hunduma
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=300&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Gemechu+Hunduma;Full-Stack+Developer;JavaScript+%7C+Node.js+%7C+React;Open+to+Collaboration!)
-
-
-🚀 A passionate Full-Stack Developer from Ethiopia  
-🎯 Mission-driven to build impactful digital solutions  
-📚 Currently learning: Next.js, Machine Learning, Mobile App Dev  
-🌱 I love combining beautiful UI with powerful backend systems  
+<!-- PART 1: Greeting -->
+<h1 align="center">👋 Hello, I'm Gemechu Hunduma</h1>
+<p align="center">A passionate Full-Stack Developer from Ethiopia 🇪🇹</p>
 
 ---
 
-## 🧰 Tech Stack
-
-**Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=flat)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
-![Express](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white&style=flat)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-
-**Other Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+<!-- PART 2: Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=450&lines=💻+Software+Engineer;🧑‍💻+Full-Stack+Developer;🌍+Open+Source+Contributor;🚀+Building+impactful+web+apps..." alt="Typing Animation" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<!-- PART 3: What I Build -->
+### 🚀 What I Build
 
-![Gemechu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gemechuH&show_icons=true&theme=tokyonight&hide_title=true)
+I design and develop full-stack web apps that are:
+- 🌟 Fast
+- 🎯 Scalable
+- 💡 Problem-solving
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemechuH&layout=compact&theme=tokyonight)
+I’m passionate about turning ideas into **real products** and working with clients who value clean, functional design.  
+If you’re looking for someone who can **handle both frontend & backend**, you’re in the right place.
+
+> 👉 **Check my portfolio here:** [My Portfolio](https://your-portfolio-link.com)  
+> 📧 **Email me:** your.email@example.com
 
 ---
 
-## 📫 Let's Connect
+<!-- PART 4: Tech Stack -->
+### 💻 My Tech Stack
 
-- 🌐 Portfolio: *coming soon*
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com)  
-- 📧 Email: your.email@example.com
+| Frontend | Backend | Database |
+|----------|---------|----------|
+| ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000?logo=express&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-F55247?logo=laravel&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) |
 
 ---
 
-> 💡 “Keep coding, stay curious, and change the world one line at a time.”
+<!-- PART 5: Projects -->
+### 🧱 Projects I’ve Built
 
+| Project Name | Description | Tech Stack |
+|--------------|-------------|------------|
+| **AgriConnect Ethiopia** | A digital platform to connect farmers with buyers and get real-time market prices. | React, Node.js, MongoDB |
+| **YouTube Clone** | A video platform similar to YouTube with custom API integration. | React, Redux, Firebase |
+| **School Registration System** | PHP-based student registration portal. | PHP, MySQL |
+| **eCommerce App** | Online shopping platform with cart, checkout, and admin panel. | React, Redux Toolkit, Express |
+| **Login System** | Full auth system using Express, JWT, and React. | Node.js, MongoDB |
+
+---
+
+<!-- PART 6: GitHub Stats -->
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gemechuH&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemechuH&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+<!-- PART 7: Contact Me -->
+### 📬 Contact Me
+
+| Platform | Link |
+|----------|------|
+| 🌐 Portfolio | [My Portfolio](https://your-portfolio-link.com) |
+| 📧 Email | your.email@example.com |
+| 💼 LinkedIn | [linkedin.com/in/yourname](https://linkedin.com) |
+| 🧳 Upwork | [Upwork Profile](https://upwork.com) |
+| 💸 Fiverr | [Fiverr Profile](https://fiverr.com) |
+| 💬 Telegram | [@yourusername](https://t.me/yourusername) |
+| 🐦 X (Twitter) | [@yourhandle](https://x.com) |
+
+---
+
+<!-- PART 8: Bonus -->
+### 💡 What’s Next?
+
+- 📚 Currently Learning: **Next.js, Machine Learning, and Mobile App Development**
+- 🤝 Open to: **Freelance Projects, Collaborations, Mentorship**
+- 🌱 Goal: Build solutions that solve real problems in Ethiopia and beyond.
+
+---
+
+> If you’ve made it this far, **thank you for visiting my profile** 🙏  
+> Let’s build something amazing together 💼💻
