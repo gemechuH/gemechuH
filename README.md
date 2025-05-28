@@ -88,6 +88,7 @@ If you’re looking for someone who can **handle both frontend & backend**, you�
 > Let’s build something amazing together 💼💻
 ### 🐍 Watch my GitHub contributions get eaten by a Snake!
 
-![snake gif](https://github.com/gemechuH/gemechuH/blob/output/github-contribution-grid-snake.svg)
+https://github.com/gemechuH/gemechuH/blob/output/github-contribution-grid-snake.svg
+
 
 
