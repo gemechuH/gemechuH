@@ -1,6 +1,6 @@
 <!-- PART 1: Greeting -->
 <h1 align="center">👋 Hello, I'm Gemechu Hunduma</h1>
-<p align="center">A passionate Full-Stack Developer from Ethiopia 🇪🇹</p>
+<p align="center">A passionate Software Engineer | Full-Stack Developer from Ethiopia 🇪🇹</p>
 
 ---
 
