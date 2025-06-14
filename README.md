@@ -15,7 +15,9 @@
 ### 🚀 What I Build
 
 I design and develop full-stack web apps that are:
-- 🌟 
+- 🌟 Fast
+- 🎯 Scalable
+- 💡 Problem-solving
 
 I’m passionate about turning ideas into **real products** and working with clients who value clean, functional design.  
 If you’re looking for someone who can **handle both frontend & backend**, you’re in the right place.
