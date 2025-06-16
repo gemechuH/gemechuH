@@ -28,7 +28,7 @@ If you’re looking for someone who can **handle both frontend & backend**, you�
 ---
 
 <!-- PART 4: Tech Stack -->
-### 💻 
+### 💻 My Tech Stack
 
 | Frontend | Backend | Database |
 |----------|---------|----------|
@@ -50,7 +50,7 @@ If you’re looking for someone who can **handle both frontend & backend**, you�
 ---
 
 <!-- PART 6: GitHub Stats -->
-### 📊 GitHub Stats
+### 📊 GitHub Stats and contribution 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gemechuH&show_icons=true&theme=tokyonight" alt="Stats" />
