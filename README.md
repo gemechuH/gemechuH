@@ -28,7 +28,7 @@ If you’re looking for someone who can **handle both frontend & backend**, you�
 ---
 
 <!-- PART 4: Tech Stack -->
-### 💻 My Tech Stack
+### 💻 
 
 | Frontend | Backend | Database |
 |----------|---------|----------|
