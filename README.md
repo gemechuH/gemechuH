@@ -1,5 +1,4 @@
-<!-- PART 1: Greeting -->
-<h1 align="center">👋 Hello, I'm Gemechu Hunduma</h1>
+<!-- PART 1: Greeting -align="center">👋 Hello, I'm Gemechu Hunduma</h1>
 <h2 align="center">A passionate <span color="green">Software Engineer | Full-Stack Developer</span>  from Ethiopia 🇪🇹</h2>
 
 ---
