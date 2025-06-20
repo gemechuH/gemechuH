@@ -11,7 +11,7 @@
 
 ---
 
-<!-- PART 3: make some explanation-->
+<!-- PART 3:-->
 ### 🚀 What I Build
 
 I design and develop full-stack web apps that are:
