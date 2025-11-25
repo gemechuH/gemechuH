@@ -1,6 +1,27 @@
 
 
 
+<h1 align="center" color="red">👋 Hello, I'm Gemechu Hunduma</h1>
+<h2 align="center">A passionate <span color="green">Software Engineer | Full-Stack 
+Developer</span></h2>
+
+---
+
+<!-- PART 2: Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=450&lines=💻+Software+Engineer;🧑‍💻+Full-Stack+Developer;🌍+Open+Source+Contributor;🚀+Building+impactful+web+apps..." alt="Typing Animation" />
+</p>
+
+---
+
+<!-- PART 3:-->
+### 🚀 What I Build
+
+I design and develop full-stack web apps that are:
+- 🌟 Fast
+- 🎯 Scalable
+- 💡 Problem-solving
+
 I’m passionate about turning ideas into **real products** and working with clients who value clean, functional design.  
 If you’re looking for someone who can **handle both frontend & backend**, you’re in the right place.
 
@@ -68,4 +89,3 @@ If you’re looking for someone who can **handle both frontend & backend**, you�
 
 > <h3> If you’ve made it this far, **thank you for visiting my profile** 🙏  </h3>
 > <h2> Let’s build something amazing together</h2> 💼💻
-
