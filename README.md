@@ -1,9 +1,5 @@
 
-<h1 align="center" color="red">👋 Hello, I'm Gemechu Hunduma</h1>
-<h2 align="center">A passionate <span color="green">Software Engineer | Full-Stack 
-Developer</span></h2>
 
----
 
 <!-- PART 2: Typing Animation -->
 <p align="center">
