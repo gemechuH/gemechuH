@@ -172,3 +172,18 @@ If you’re looking for someone who can **handle both frontend & backend**, you�
 
 ---
 
+<!-- PART 8: Bonus -->
+### 💡 What’s Next?
+
+- 📚 Currently Learning: **Next.js, Machine Learning, and Mobile App Development**
+- 🤝 Open to: **Freelance Projects, Collaborations, Mentorship**
+- 🌱 Goal: Build solutions that solve real problems in Ethiopia and beyond.
+
+---
+
+> <h3> If you’ve made it this far, **thank you for visiting my profile** 🙏  </h3>
+> <h2> Let’s build something amazing together</h2> 💼💻
+
+
+
+
