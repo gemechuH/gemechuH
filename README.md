@@ -1,16 +1,5 @@
 asd
 
-<h1 align="center" color="red">👋 Hello, I'm Gemechu Hunduma</h1>
-<h2 align="center">A passionate <span color="green">Software Engineer | Full-Stack 
-Developer</span></h2>
-
----
-
-
-<!-- PART 2: Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=450&lines=💻+Software+Engineer;🧑‍💻+Full-Stack+Developer;🌍+Open+Source+Contributor;🚀+Building+impactful+web+apps..." alt="Typing Animation" />
-</p>
 
 ---
 
